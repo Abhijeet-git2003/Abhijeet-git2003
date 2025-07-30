@@ -2,13 +2,13 @@
 🎓 BCA Graduate | 💻 Web Developer | 🌐 Networking Enthusiast
 
 ## 🚀 My Projects
-## 🍔 Cafe Ordering Website [Link](https://github.com/Abhijeet-git2003/Heaven-s-Kitchen-website)
+## 🍔 Heaven's Kitchen [Link](https://github.com/Abhijeet-git2003/Heaven-s-Kitchen-website)
 An online fast food ordering system with admin dashboard and payment simulation.  
 🛠 Tech Used: HTML, CSS, JavaScript, PHP, MySQL  
 📦 Source Code: Coming soon
 
-## 📚 Online Course Selling Platform (Like Udemy)
-A platform to sell and enroll in online courses with login and admin features.  
+## 📚 Quantum Coaching [Link](https://github.com/Abhijeet-git2003/Quantum-Coaching-website)
+  A online Course Selling Platform to sell and enroll in online courses with login and admin features.  
 🛠 Tech Used: HTML, CSS, JS, PHP, SQL  
 📦 Source Code: Coming soon
 
